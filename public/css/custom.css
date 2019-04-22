@@ -1,0 +1,8 @@
+.notif-label {
+    top: 2px;
+    right: -3px;
+    padding: 0.2rem 0.3rem;
+    font-size: 70%;
+    color: white;
+    background-color: indianred;
+}
