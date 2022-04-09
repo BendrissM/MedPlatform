@@ -27,7 +27,7 @@
     "dependencies": {
         "admin-lte": "^3.0.0-alpha.2",
         "gijgo": "^1.9.13",
-        "moment": "^2.24.0",
+        "moment": "^2.29.2",
         "vue-router": "^3.0.6"
     }
 }
